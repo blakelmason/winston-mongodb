@@ -33,7 +33,7 @@
     "logger"
   ],
   "dependencies": {
-    "mongodb": "^3.6.2",
+    "mongodb": "^4.8.0",
     "winston-transport": "^4.4.0"
   },
   "peerDependencies": {
@@ -42,7 +42,7 @@
   "devDependencies": {
     "abstract-winston-transport": "~0.5.1",
     "mocha": "^7.2.0",
-    "mongoose": "^5.10.5",
+    "mongoose": "^6.4.4",
     "winston": "^3.3.3"
   },
   "engines": {
